@@ -1,9 +1,9 @@
-name: test-package
+name: Node.js Package
 
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs: 
   publish-gpr:
